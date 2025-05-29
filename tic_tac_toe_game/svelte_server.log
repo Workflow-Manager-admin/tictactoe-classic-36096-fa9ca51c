@@ -12,3 +12,11 @@
 10:49:05 PM [vite] (client) ✨ optimized dependencies changed. reloading
 10:49:42 PM [vite] (client) hmr update /src/routes/+page.svelte
 10:49:42 PM [vite] (ssr) page reload src/routes/+page.svelte
+10:49:48 PM [vite] (client) page reload .svelte-kit/generated/root.js
+10:49:48 PM [vite] (ssr) page reload .svelte-kit/generated/root.js
+10:49:48 PM [vite] (client) page reload .svelte-kit/generated/client/app.js
+10:49:48 PM [vite] (client) page reload .svelte-kit/generated/client/nodes/2.js
+10:49:48 PM [vite] (client) page reload .svelte-kit/generated/client/matchers.js
+10:49:48 PM [vite] (client) page reload .svelte-kit/generated/client/nodes/1.js
+10:49:48 PM [vite] (ssr) page reload .svelte-kit/generated/server/internal.js
+10:49:48 PM [vite] (client) page reload .svelte-kit/generated/client/nodes/0.js

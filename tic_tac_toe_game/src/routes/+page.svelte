@@ -161,7 +161,7 @@
       {getStatus()}
     </div>
     <div class="board-grid" role="grid" aria-label="TicTacToe board">
-      {#each board as cell, idx}
+      {#each board as cell, idx (idx)}
         <button
           class="cell {cell === 'X' && 'cell-x'} {cell === 'O' && 'cell-o'} {winner || cell ? 'disabled' : ''}"
           type="button"
