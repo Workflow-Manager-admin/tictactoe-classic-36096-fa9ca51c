@@ -10,3 +10,5 @@
   ➜  Network: http://172.17.0.2:3000/
 10:49:05 PM [vite] (client) ✨ new dependencies optimized: clsx
 10:49:05 PM [vite] (client) ✨ optimized dependencies changed. reloading
+10:49:42 PM [vite] (client) hmr update /src/routes/+page.svelte
+10:49:42 PM [vite] (ssr) page reload src/routes/+page.svelte
